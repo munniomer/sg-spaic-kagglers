@@ -3,7 +3,7 @@
  ### Team 1 : Kagglers
  
  We did not work on a project as a team together this week but we had one virtual meetup which we discussed project ideas.
- [Meetup Picture]()Here are the projects we did individually: 
+ [Meetup Picture](https://github.com/munniomer/sg-spaic-kagglers/tree/master/week%202/Team%201%20Virtual%20meetup) Here are the projects we did individually: 
  
  
 Team members        | project name      | Summary of week 1 work |
