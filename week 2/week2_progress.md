@@ -23,6 +23,6 @@ Team members        | project name      | Summary of week 1 work |
 ------------- | ------------- | ---------------
 @Nikita Sukhwal   | [Titanic](https://www.kaggle.com/c/titanic) | 1. Submitted first project Titanic dataset with accuracy of 75.598%    |
 @Manisha     | [Kernel Link](https://www.kaggle.com/biswajitbanerjee/titanic-with-pytorch) | 2. Used neural networks with PyTorch to Predict Titanic Survivals |
-@Biswajit Banerjee   | [Meetup pics]() | 3. [Started IEEE - CIS Fraud Detection Projects](https://www.kaggle.com/c/ieee-fraud-detection/overview)   |
+@Biswajit Banerjee   | [Meetup pics](https://github.com/munniomer/sg-spaic-kagglers/tree/master/week%202/Team%202%20Virtual%20Meetup) | 3. [Started IEEE - CIS Fraud Detection Projects](https://www.kaggle.com/c/ieee-fraud-detection/overview)   |
 @Md. Mahedi Hasan Riday   |  | 4. Worked over Data pre-processing of new project |
 |  |  | 5. Had 3 virtual meetups on 16 July, 17 July and 19 July. |
