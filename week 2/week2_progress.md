@@ -26,3 +26,12 @@ Team members        | project name      | Summary of week 1 work |
 @Biswajit Banerjee   | [Meetup pics](https://github.com/munniomer/sg-spaic-kagglers/tree/master/week%202/Team%202%20Virtual%20Meetup) | 3. [Started IEEE - CIS Fraud Detection Projects](https://www.kaggle.com/c/ieee-fraud-detection/overview)   |
 @Md. Mahedi Hasan Riday   |  | 4. Worked over Data pre-processing of new project |
 |  |  | 5. Had 3 virtual meetups on 16 July, 17 July and 19 July. |
+
+ ### Team 3 : Vengers
+
+Team members        | project name      | Summary of week 1 work |
+------------- | ------------- | ---------------
+@Shahana    | [Cars Dataset](https://www.kaggle.com/c/virtual-hack/overview) | 1. Data analysis    |
+@Labiba     | [Kernel Link](https://www.kaggle.com/shahanamogal/team-vengers-car-classification) | 2. Trained neural network for prediction task.   |
+@happycoder354    |  | 3. Had a zoom call for discussions   |
+|@Joy Poddar    |    |    |
