@@ -36,3 +36,12 @@ Team members        | project name      | Summary of week 1 work |
 @Labiba     | [Kernel Link](https://www.kaggle.com/shahanamogal/team-vengers-car-classification) | 2. Trained neural network for prediction task.   |
 @happycoder354    |  | 3. Had a zoom call for discussions   |
 |@Joy Poddar    |    |    |
+
+
+@Shudipto Trafder worked on two kaggle projects individually.
+1. Titanic project on kaggle and completed with 0.76 accuracy
+[Kernel Link](https://www.kaggle.com/iamsdt/titanic-pytorch-iamsdt)
+
+2. Digit Recognizer: on kaggle and completed with 0.99 accuracy
+[Kernel Link](https://www.kaggle.com/iamsdt/pytorch-iamsdt/data)
+
