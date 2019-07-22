@@ -17,7 +17,7 @@ Team members        | project name      | Summary of week 1 work |
 Team members        | project name      | Summary of week 1 work |
 ------------- | ------------- | ---------------
 @Nikita Sukhwal   | [Titanic](https://www.kaggle.com/c/titanic) | 1. Data Preprocessing, EDA    |
-@Sainath    | [Kernel Link](https://www.kaggle.com/biswajitbanerjee/titanic-proj1-biswajit-ca2a27) | 2. Built a simple model with 69% accuracy.   |
+@Sainath    | [Kernel Link](https://www.kaggle.com/biswajitbanerjee/titanic-with-pytorch) | 2. Built a simple model with 69% accuracy.   |
 @Biswajit Banerjee   | [Meetup pics](https://github.com/munniomer/sg-spaic-kagglers/tree/master/week%201/Team%202%20Virutal%20Meetups) | 3. Used Neural Networks to predict survivals   |
 @Md. Mahedi Hasan Riday   |  | 4. Had 2 virtual meetups together   
 @Manisha   |  |    |
