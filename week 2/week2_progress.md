@@ -45,3 +45,7 @@ Team members        | project name      | Summary of week 1 work |
 2. Digit Recognizer: on kaggle and completed with 0.99 accuracy
 [Kernel Link](https://www.kaggle.com/iamsdt/pytorch-iamsdt/data)
 
+
+@@Abhinav Raj worked on one kaggle projects individually.
+1. Completed titanic survival prediction with 76.55% accuracy.
+[Kernel Link](https://www.kaggle.com/abhi116/titanic)
