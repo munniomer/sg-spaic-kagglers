@@ -13,7 +13,7 @@ Hackathon Sentiment on kaggle and completed with accuracy of 86%.
 
 3. **@Shubhendu Mishra** is working on one kaggle project individually.
 
-Hackathon Recognizing Faces in the Wild VGG16 - PyTorch on kaggle and currently having an accuracy of 51%..
+Hackathon Recognizing Faces in the Wild VGG16 on kaggle and currently having an accuracy of 51%
 [Kernel link](https://www.kaggle.com/shubhendumishra/recognizing-faces-in-the-wild-vggface-pytorch)
 
 
