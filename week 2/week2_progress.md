@@ -1,37 +1,16 @@
-## Week 2 Report : 22nd July - 28th July 2019
+## Week 2 Report : 15th July - 21st July 2019
 
-1. **@Pavan Kumar Singh**  worked on one kaggle project individually.
+ ### Team 1 : Kagglers
 
-Titanic project on kaggle and completed with accuracy of 76.55%.
-[Kernel Link](https://www.kaggle.com/pksx01/titanic-survival-prediction-logistic-regression)
-
-2. **@Bhadresh Savani** worked on one kaggle project individually.
-
-Hackathon Sentiment on kaggle and completed with accuracy of 86%.
-[Kernel link](https://www.kaggle.com/bhadreshsavani/aarya-sentimentalanalysis)
+ We did not work on a project as a team together this week but we had one virtual meetup which we discussed project ideas.
+ [Meetup Picture](https://github.com/munniomer/sg-spaic-kagglers/tree/master/week%202/Team%201%20Virtual%20meetup) Here are the projects we did individually: 
 
 
-3. **@Shubhendu Mishra** is working on one kaggle project individually.
-
-Hackathon Recognizing Faces in the Wild VGG16 on kaggle and currently having an accuracy of 51%
-[Kernel link](https://www.kaggle.com/shubhendumishra/recognizing-faces-in-the-wild-vggface-pytorch)
-
-
-4. **@Shahana** is working on one kaggle project individually.
-
-Dog Breed Classification projectt on kaggle and currently having an accuracy of 70%.
-[Kernel link](https://www.kaggle.com/shahanamogal/kernelbb6306db7f)
-
-
-5. **@Bhadresh Savani** is working on one kaggle project individually.
-
-Blindness Detection Competition on kaggle and currently having an accuracy of 75%.
-[Kernel link](https://www.kaggle.com/droid021/colorize)
-
-
-6. **@Marwa** worked on one kaggle project individually.
-
-FLower Image Classifier on kaggle and completed with accuracy of 80%.
-[Colab link](https://colab.research.google.com/drive/1dPgfVXN_KwqFET3T3vdfC7JIlUYZwjo4)
-
-
+Team members        | project name      | Summary of week 1 work |
+------------- | ------------- | ---------------
+@Munira Omar  | Did not work on any project as she had no WiFi access | Attended the virtual meetup   |
+@Marwa   | [Worked on Image classification project for flower dataset](https://colab.research.google.com/github/MarwaQabeel/Image-Classifier-Project/blob/master/Image_Classifier_Project_submitted.ipynb)  | Attended the virtual meetup   |
+@Labiba   | [Participated the weekly hackathon of #sg_hackathon-orgnizrs](https://www.kaggle.com/shahanamogal/team-vengers-car-classification)  | Attended the virtual meetup    |
+@Mohona  | [Submitted Titanic and it was finally accepted by kaggle competition.](https://github.com/mhmohona/KaggleProjects/tree/master/Titanic%20Machine%20Learning%20from%20Disaster)  | Attended the virtual meetup  |
+@Shubhendu Mishra  | 1.[ Worked on Dog Breed Classification Challenge ](https://www.kaggle.com/shubhendumishra/dog-breed-classification-using-vgg16-on-pytorch) 2. [Participated the weekly hackathon of #sg_hackathon-orgnizrs](https://www.kaggle.com/shubhendumishra/solo-cars-classification-using-vgg16-on-pytorch)  | Attended the virtual meetup  |
+@Richaldo_Elias   |    | Attended the virtual meetup |
