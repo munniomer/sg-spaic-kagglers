@@ -25,7 +25,9 @@ Continued my work on Faces in the Wild challenge and got a maximum accuracy of 7
 IMDB Movies Dataset projectt on kaggle 
 [Kernel link](https://www.kaggle.com/iamsdt/kernelc37470a4aa)
 
-5. **@Munira Omar** worked on style transfer project individual
+5. **@Munira Omar** worked on one project individual
+
+Worked on Style Transfer project using Pytorch
 [Colab Link](https://colab.research.google.com/drive/1Y0OUNSUIKxU8K1S5wh-FjHvo6wFocGTj)
 
 
