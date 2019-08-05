@@ -7,4 +7,8 @@ This repository is for the weekly reports of the study group spaic kagglers prog
  [Week 2 Report : 15th July - 21st July 2019](https://github.com/munniomer/sg-spaic-kagglers/blob/master/week%202/week2_progress.md)
 
 
-[Week 3 Report : 22nd July - 28th July 2019](https://github.com/munniomer/sg-spaic-kagglers/blob/master/week%202/week2_progress.md)
+[Week 3 Report : 22nd July - 28th July 2019](https://github.com/munniomer/sg-spaic-kagglers/blob/master/week%203/week3_progress.md)
+
+
+
+[Week 4 Report : 29th July - 04th Aug 2019](https://github.com/munniomer/sg-spaic-kagglers/blob/master/week%204/week4_progress.md)
